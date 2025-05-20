@@ -3,7 +3,7 @@
 <h2 align="center">Hey, there! 👋</h2>
 
 <p align="center">
-  I'm Code Sorcerer.<br/> Full Stack Development Lead<br/>
+  I'm Daniel.<br/> Full Stack Development Lead<br/>
   7+ years in JS dev
   <br/><br/>
   Architecting <strong>top-notch UI</strong> with React, Next.js, Tailwind, Ionic<br/>
