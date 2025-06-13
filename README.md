@@ -15,13 +15,6 @@
 
 <hr />
 
-<p align="center">
-    <img alt="93alan Twitter Follow" src="https://img.shields.io/twitter/follow/93alan?color=3578e5&label=Twitter&logoColor=3578e5&style=for-the-badge&logo=Twitter">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCZm616WEhxNaysg3tRoZ96w?label=Youtube&logoColor=FFFFFF&style=for-the-badge&logo=Youtube">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/alanmontgomery?color=FFFFFF&label=GITHUB&style=for-the-badge&logo=Github">
- 
-</p>
-
 ## 🌌 The Vision
 
 In a world where logic meets soul, I craft digital experiences that speak louder than code—where every pixel breathes purpose.. This is where technology transcends code to become art.
