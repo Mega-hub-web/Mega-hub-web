@@ -46,17 +46,6 @@ In a world where logic meets soul, I craft digital experiences that speak louder
   <a  target="_blank">View my work gitlab contributions &rarr;</a>
 </p>
 
-<h4 align="center">Here are some things I spend time on 👇</h4>
-
-<p align="center">
-    <img width="49%" src="https://i.imgur.com/1LTXVk3.png" alt="Ionic React Hub - A collection of Ionic React Mobile App UI, Components and Resources" />
-    <img width="49%" src="https://i.imgur.com/tD63VDA.png" alt=" YouTube" />
- /p>
-
-<p align="center">
-    <img width="49%" src="https://i.imgur.com/GfWZaMi.png" alt="93alan Twitter" />
- /p>
-
 ## 🧙‍♂️ Skillset
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,nodejs,prisma,postgres,php,github,gitlab,docker,git,nginx,npm,pnpm,supabase,kotlin,java" />
