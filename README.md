@@ -36,16 +36,6 @@ In a world where logic meets soul, I craft digital experiences that speak louder
   </table>
 </div>
 
-## 🏛️ Current Endeavors
-
-<p align="center">
-  💼 <strong>Frontend Development Lead</strong> @ UsedCarsNI
-  <br /><br />
-  <img alt="UsedCarsNI" src="https://image.usedcarsni.com/logo/1/000/000/000/001/171135472420af6910ae.png" height="20%" width="20%" />
-  <br />
-  <a  target="_blank">View my work gitlab contributions &rarr;</a>
-</p>
-
 ## 🧙‍♂️ Skillset
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,nodejs,prisma,postgres,php,github,gitlab,docker,git,nginx,npm,pnpm,supabase,kotlin,java" />
